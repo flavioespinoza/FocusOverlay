@@ -30,7 +30,7 @@ class Template extends React.Component {
         <div id="wrapper">
           {children}
           <GithubCorner
-            href="https://github.com/mmahandev/focusoverlay"
+            href="https://github.com/flavioespinoza/focusoverlay"
             svgStyle={{ position: 'fixed' }}
           />
         </div>

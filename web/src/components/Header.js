@@ -18,7 +18,7 @@ const Header = props => (
       <u>Click</u> or use the <u>tab</u> key to focus elements around the page.
     </p>
     <p className="special">
-      <a href="https://github.com/mmahandev/focusoverlay">Github</a>
+      <a href="https://github.com/flavioespinoza/focusoverlay">Github</a>
     </p>
   </header>
 );

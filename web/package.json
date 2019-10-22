@@ -5,9 +5,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://mmahandev.github.io/FocusOverlay/"
+    "url": "https://flavioespinoza.github.io/FocusOverlay/"
   },
-  "author": "mmahandev",
+  "author": "flavioespinoza",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

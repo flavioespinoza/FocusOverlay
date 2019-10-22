@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/FocusOverlay',
   siteMetadata: {
     title: 'Focus Overlay',
-    author: 'Maurice (mmahandev)',
+    author: 'Flavio (flavioespinoza)',
     description: 'Library for creating overlays on focused elements'
   },
   plugins: [
