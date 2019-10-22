@@ -42,7 +42,9 @@
     "focusoverlay"
   ],
   "sideEffects": false,
-  "dependencies": {},
+  "dependencies": {
+    "core-js": "^3.3.3"
+  },
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/plugin-transform-object-assign": "^7.2.0",
