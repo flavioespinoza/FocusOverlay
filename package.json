@@ -75,5 +75,8 @@
       "npm run lint:fix",
       "git add"
     ]
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
